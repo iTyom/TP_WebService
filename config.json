@@ -1,0 +1,6 @@
+{
+    "connectionString": "mongodb://localhost/",
+    "secret": "secret_key",
+    "bankId": 13100,
+    "jwtExpirySeconds": 300
+}
